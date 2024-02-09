@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZOFIHITModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a13bd28de518fe061cee5256db9969ce6ee23a42")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZOFIHITModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZOFIHITModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

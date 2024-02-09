@@ -11,6 +11,7 @@
     <None Include="..\..\Source\ZOFIHITEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -37,6 +38,18 @@
     </ClCompile>
     <ClInclude Include="..\..\Source\ZOFIHIT\ZOFIHIT.h">
       <Filter>Source\ZOFIHIT</Filter>
+    </ClInclude>
+    <Filter Include="Source\ZOFIHIT\Core">
+      <UniqueIdentifier>{D3ABA553-1618-389A-A5E6-464023846E85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\ZOFIHIT\Core\Character">
+      <UniqueIdentifier>{5ACD0A04-8DB6-3B4D-8460-3D9A35097DCA}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ZOFIHIT\Core\Character\MCharacter.cpp">
+      <Filter>Source\ZOFIHIT\Core\Character</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\ZOFIHIT\Core\Character\MCharacter.h">
+      <Filter>Source\ZOFIHIT\Core\Character</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

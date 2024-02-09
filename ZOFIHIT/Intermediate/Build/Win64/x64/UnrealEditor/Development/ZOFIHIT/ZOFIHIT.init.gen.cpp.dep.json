@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kts-ws-2312u\\documents\\unreal projects\\zofihitrep\\zofihit\\intermediate\\build\\win64\\unrealeditor\\inc\\zofihit\\uht\\zofihit.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\kts-ws-2312u\\documents\\unreal projects\\zofihitrep\\zofihit\\intermediate\\build\\win64\\x64\\zofihiteditor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\kts-ws-2312u\\documents\\unreal projects\\zofihitrep\\zofihit\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\zofihit\\definitions.zofihit.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
