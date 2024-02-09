@@ -13,10 +13,10 @@ class ZOFIHIT_API AMCharacter : public ACharacter
 	GENERATED_BODY()
 
 public:
-	UPROPERTY(BlueprintReadWrite,EditAnywhere) UCameraComponent* CameraComponent;
-	UPROPERTY(BlueprintReadWrite,EditAnywhere) USkeletalMeshComponent* CharecterMesh;
+	UPROPERTY(BlueprintReadOnly,EditAnywhere) UCameraComponent* CameraComponent;
+	UPROPERTY(BlueprintReadOnly,EditAnywhere) USkeletalMeshComponent* CharecterMesh;
 
-	USkeletalMesh* SM_CharecterMesh;
+	UPROPERTY(BlueprintReadWrite,EditAnywhere) USkeletalMesh* SM_CharecterMesh;
 
 public:
 	// Sets default values for this character's properties

@@ -1404,3 +1404,12 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.02.09-11.56.53:370][596]LogUObjectGlobals: Warning: Failed to find object 'SkeletalMesh None.C:/Users/KTS-WS-2312U/Documents/Unreal Projects/ZOFIHITrep/ZOFIHIT/Content/ZOFIHIT/Assets/SkelitonMeshes/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uasset'
 [2024.02.09-11.56.53:433][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
 [2024.02.09-11.56.53:438][596]LogUObjectGlobals: Warning: Failed to find object 'SkeletalMesh None.C:/Users/KTS-WS-2312U/Documents/Unreal Projects/ZOFIHITrep/ZOFIHIT/Content/ZOFIHIT/Assets/SkelitonMeshes/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uasset'
+[2024.02.09-11.59.11:456][216]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.02.09-11.59.11:462][216]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ZOFIHIT/Maps/DefaultMap' took 0.031
+[2024.02.09-11.59.11:462][216]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ZOFIHIT/Core/Characters/BP_MCharacter] ([2] browsable assets)...
+[2024.02.09-11.59.11:548][216]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ZOFIHIT/Core/Characters/BP_MCharacter.BP_MCharacter]
+[2024.02.09-11.59.11:548][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/ZOFIHIT/Core/Characters/BP_MCharacter]
+[2024.02.09-11.59.11:551][216]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ZOFIHIT/Core/Characters/BP_MCharacter_Auto6
+[2024.02.09-11.59.11:551][216]LogSavePackage: Moving '../../../../../../Users/KTS-WS-2312U/Documents/Unreal Projects/ZOFIHITrep/ZOFIHIT/Saved/BP_MCharacter_Auto64595A4CC44AEEAA38B6EB5989C274F12.tmp' to '../../../../../../Users/KTS-WS-2312U/Documents/Unreal Projects/ZOFIHITrep/ZOFIHIT/Saved/Autosaves/Game/ZOFIHIT/Core/Characters/BP_MCharacter_Auto6.uasset'
+[2024.02.09-11.59.11:552][216]LogFileHelpers: Auto-saving content packages took 0.089
+[2024.02.09-12.05.05:632][278]LogDerivedDataCache: C:/Users/KTS-WS-2312U/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:08.044 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4591 files in 5929 folders with total size 305 MiB.
