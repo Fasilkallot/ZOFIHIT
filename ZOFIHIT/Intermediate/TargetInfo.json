@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ZOFIHIT",
+			"Path": "..\\Source\\ZOFIHIT.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ZOFIHITEditor",
+			"Path": "..\\Source\\ZOFIHITEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
