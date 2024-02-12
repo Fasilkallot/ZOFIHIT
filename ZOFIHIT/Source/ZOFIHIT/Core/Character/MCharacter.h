@@ -5,6 +5,7 @@
 #include "Camera/CameraComponent.h"
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
+#include "InputMappingContext.h"
 #include "MCharacter.generated.h"
 
 UCLASS()
@@ -18,6 +19,10 @@ public:
 
 	UPROPERTY(BlueprintReadWrite,EditAnywhere) USkeletalMesh* SM_CharecterMesh;
 
+	UPROPERTY(BlueprintReadWrite,EditAnywhere) UInputMappingContext* IMC_Locomotion;
+	UPROPERTY(BlueprintReadWrite,EditAnywhere) UInputAction* IA_Move;
+	UPROPERTY(BlueprintReadWrite,EditAnywhere) UInputAction* IA_Look;
+
 public:
 	// Sets default values for this character's properties
 	AMCharacter();
@@ -30,6 +35,9 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+
+	void OnMovePressed(const FInputActionValue& InputActionValue);
+	void OnLook(const FInputActionValue& InputActionValue);
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 

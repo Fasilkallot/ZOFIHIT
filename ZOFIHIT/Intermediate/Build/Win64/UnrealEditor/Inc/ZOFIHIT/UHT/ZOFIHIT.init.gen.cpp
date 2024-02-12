@@ -17,7 +17,7 @@ void EmptyLinkFunctionForGeneratedCodeZOFIHIT_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x81900AE1,
+				0xF7B1F9C2,
 				0x92CC5163,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -25,5 +25,5 @@ void EmptyLinkFunctionForGeneratedCodeZOFIHIT_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_ZOFIHIT.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_ZOFIHIT(Z_Construct_UPackage__Script_ZOFIHIT, TEXT("/Script/ZOFIHIT"), Z_Registration_Info_UPackage__Script_ZOFIHIT, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x81900AE1, 0x92CC5163));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_ZOFIHIT(Z_Construct_UPackage__Script_ZOFIHIT, TEXT("/Script/ZOFIHIT"), Z_Registration_Info_UPackage__Script_ZOFIHIT, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xF7B1F9C2, 0x92CC5163));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

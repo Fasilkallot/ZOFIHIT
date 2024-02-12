@@ -40,6 +40,7 @@
 "C:\Users\KTS-WS-2312U\Documents\Unreal Projects\ZOFIHITrep\ZOFIHIT\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZOFIHIT\ZOFIHIT.cpp.obj"
 "C:\Users\KTS-WS-2312U\Documents\Unreal Projects\ZOFIHITrep\ZOFIHIT\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZOFIHIT\MCharacter.cpp.obj"
 "C:\Users\KTS-WS-2312U\Documents\Unreal Projects\ZOFIHITrep\ZOFIHIT\Intermediate\Build\Win64\x64\UnrealEditor\Development\ZOFIHIT\Default.rc2.res"
+"..\Plugins\EnhancedInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\EnhancedInput\UnrealEditor-EnhancedInput.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
